@@ -1,5 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -58,9 +56,3 @@ My journey began at the age of 14 when I started learning PHP as a hobby, now I 
 ![Storybook](https://img.shields.io/badge/Storybook-%23FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-%23F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white) 
 </p>
-
-<p>
-  <br>
-</p>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
