@@ -1,26 +1,16 @@
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Kyle Aldridge</h1></summary>
+  <ul>
+    <summary><h2>Hi 👋, I'm Kyle Aldridge</h2></summary>
   </ul>
 </div>
-
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">My Bio</h2></summary>
   </ul>
 </div>-->
-<br>
 
 <!--Intro start-->
 I'm a dedicated self-taught programmer with a lifelong passion for problem-solving and computers.<br>
@@ -28,7 +18,7 @@ My journey began at the age of 14 when I started learning PHP as a hobby, now I 
 <!--Intro end-->
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="20"> Skills
 
 <p align="center">
 
